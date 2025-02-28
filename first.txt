@@ -1,5 +1,5 @@
 welcome to smart IT soloutions & Placement
-offering courses are  AWS Azure DevOps 
+offering courses are  AWS Azure GCP & DevOps 
 ammerpet
 hyderabad
 pin 500016
